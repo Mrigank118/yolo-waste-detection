@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+build/
+.vercel/
+
+# Env files
+.env*
+!.env.example
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac & Windows system files
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Lint and format
+.eslintcache
+.prettiercache
+
+# Coverage
+coverage/
+
+# Git LFS
+.gitattributes
